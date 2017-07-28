@@ -5,9 +5,8 @@
 This is the official repository for the "Algorithms Engineering" course year
 2017/2018 at BSc in Computer Science Engineering, University of Rome Tor Vergata.
 
-## Important News
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-incididunt ut labore et dolore magna aliqua.
+  > **Important News** Lorem ipsum dolor sit amet, consectetur adipiscing elit,
+  sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 
 
 ## General
@@ -42,6 +41,6 @@ Emanuele Vannacci, [me@gmail.com](mailto:me@gmail.com)
 
 
 ## References
-"Algoritmi e strutture dati", C. Demetrescu, I. Finocchi, G. F. Italiano
+"Algoritmi e strutture dati", C. Demetrescu, I. Finocchi, G. F. Italiano -- [Link](#)
 
-"Progetto di algoritmi e strutture dati in Java", C. Demetrescu, I. Finocchi, G. F. Italiano
+"Progetto di algoritmi e strutture dati in Java", C. Demetrescu, I. Finocchi, G. F. Italiano -- [Link](#)
