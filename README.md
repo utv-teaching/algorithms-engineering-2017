@@ -2,6 +2,7 @@
 
 *BSc Computer Science Engineering, University of Rome Tor Vergata*
 
+
 This is the official repository for the "Algorithms Engineering" course year
 2017/2018 at BSc in Computer Science Engineering, University of Rome Tor Vergata.
 
@@ -30,6 +31,8 @@ Emanuele Vannacci, [me@gmail.com](mailto:me@gmail.com)
 | Day        | Topic                     | Resources             |
 |------------|---------------------------|-----------------------|
 | 01/10/2017 | A short topic description | [Link to resource](#) |
+| 02/10/2017 | A short topic description | [Link to resource](#) |
+| 03/10/2017 | A short topic description | [Link to resource](#) |
 
 
 ## Software Resources
