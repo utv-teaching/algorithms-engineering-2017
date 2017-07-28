@@ -20,8 +20,9 @@ Emanuele Vannacci, [me@gmail.com](mailto:me@gmail.com)
 
 
 ## Lectures
+
 | Day        | Topic                     | Resources             |
-|------------|---------------------------|-----------------------|
+| ---------- | ------------------------- | --------------------- |
 | 01/10/2017 | A short topic description | [Link to resource](#) |
 | 02/10/2017 | A short topic description | [Link to resource](#) |
 | 03/10/2017 | A short topic description | [Link to resource](#) |
