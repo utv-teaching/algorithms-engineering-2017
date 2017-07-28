@@ -1,11 +1,3 @@
-# Algorithms Engineering 2017/2018
-
-*BSc Computer Science Engineering, University of Rome Tor Vergata*
-
-
-This is the official repository for the "Algorithms Engineering" course year
-2017/2018 at BSc in Computer Science Engineering, University of Rome Tor Vergata.
-
   > **Important News** Lorem ipsum dolor sit amet, consectetur adipiscing elit,
   sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 
