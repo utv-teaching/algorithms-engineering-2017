@@ -1,34 +1,53 @@
-  > **Important News** Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-  sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+  > **Avviso** Vi consigliamo di portare a lezione il vostro computer.
 
 
-## General
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu
-fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in
-culpa qui officia deserunt mollit anim id est laborum.
+## Informazioni Generali
+Questo sito è relativo alla parte pratica del corso di Ingegneria degli algoritmi per l’anno accademico 2017/2018.
+L’obiettivo del corso è fornire agli studenti le competenze di design, analisi e implementazione di algoritmi e strutture dati in Python.
+Questa parte del corso è svolta  dall’Ing. Giacomo Marciani, Ing. Laura Trivelloni e Ing. Emanuele Vannacci.
 
 
-## Teachers
-Giacomo Marciani, [gmarciani@acm.org](mailto:gmarciani@acm.org)
+## ORARIO
+Orario valido dal 16/10/2017 al 10/01/2018
 
-Laura Trivelloni, [me@gmail.com](mailto:me@gmail.com)
-
-Emanuele Vannacci, [me@gmail.com](mailto:me@gmail.com)
+  > Lunedi dalle 14:00 alle 15:45, aula B2
 
 
-## Lectures
+## Contatti
+Vi chiediamo gentilmente di premettere nell’oggetto l’header *[IA17]*.
 
-| Day        | Topic                     | Resources             |
-| ---------- | ------------------------- | --------------------- |
-| 01/10/2017 | A short topic description | [Link to resource](#) |
-| 02/10/2017 | A short topic description | [Link to resource](#) |
-| 03/10/2017 | A short topic description | [Link to resource](#) |
+* Giacomo Marciani: [giacomo.marciani@alumni.uniroma2.eu](mailto:giacomo.marciani@alumni.uniroma2.eu)
+* Laura Trivelloni: [laura.trivelloni@alumni.uniroma2.eu](mailto:laura.trivelloni@alumni.uniroma2.eu)
+* Emanuele Vannacci: [emanuele.vannacci@alumni.uniroma2.eu](mailto:emanuele.vannacci@alumni.uniroma2.eu)
 
 
-## Software Resources
+## Modalità di esame
+La prova consiste nell'implementazione in Python di soluzioni a problemi algoritmici ed influirà sul 25% del voto in Ingegneria degli Algoritmi.
+Potrete decidere di svolgere la prova pratica in due diverse modalità:
+* Due prove in itinere. La prima prova di bassa complessità, da svolgersi individualmente. La seconda prova di media complessità, da svolgersi individualmente o in team (al più 3 persone).
+* Una prova finale di complessità elevata, da svolgersi individualmente o in team (al più 3 persone).
+
+È caldamente consigliato lo svolgimento delle prove in itinere.
+
+
+## Lezioni
+| Giorno     | Argomento                            | Docente    | Materiale  |
+| ---------- | ------------------------------------ | ---------- | ---------- |
+| 16/10/2017 | Python                               | Vannacci   |            |
+| 23/10/2017 | Liste, Code, Pile                    | Trivelloni |            |
+| 30/10/2017 | Algoritmi di ordinamento             | Marciani   |            |
+| 06/11/2017 | Algoritmi di selezione               | Vannacci   |            |
+| 13/11/2017 | Alberi, Progetto-1                   | Trivelloni |            |
+| 20/11/2017 | Tabelle Hash                         | Marciani   |            |
+| 27/11/2017 | Code con priorità                    | Vannacci   |            |
+| 04/12/2017 | Union-Find                           | Trivelloni |            |
+| 11/12/2017 | Grafi, Visite su grafi               | Marciani   |            |
+| 18/12/2017 | Minimo albero ricoprente, Progetto-2 | Vannacci   |            |
+| 22/12/2017 | Cammini minimi, Progetto finale      | Trivelloni |            |
+| 10/01/2017 | Q&A                                  | Marciani   |            |
+
+
+## Risorse
 **Python** -- [download](https://www.python.org/)
 
 **Git** -- [download](https://git-scm.com/)
@@ -36,7 +55,7 @@ Emanuele Vannacci, [me@gmail.com](mailto:me@gmail.com)
 **PyCharm** -- [download](https://www.jetbrains.com/pycharm/)
 
 
-## References
-"Algoritmi e strutture dati", C. Demetrescu, I. Finocchi, G. F. Italiano -- [Link](#)
+## Libri consigliati
+"Algoritmi e strutture dati", C. Demetrescu, I. Finocchi, G. F. Italiano -- [Link](https://www.amazon.it/Algoritmi-strutture-dati-Camil-Demetrescu/dp/8838664684)
 
-"Progetto di algoritmi e strutture dati in Java", C. Demetrescu, I. Finocchi, G. F. Italiano -- [Link](#)
+"Imparare Python", M. Lutz -- [Link](https://www.amazon.it/Imparare-Python-Mark-Lutz/dp/8848125956)
