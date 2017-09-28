@@ -51,8 +51,6 @@ Potrete decidere di svolgere la prova pratica in *due modalità, mutuamente eslc
 ## Risorse
 **Python** -- [download](https://www.python.org/)
 
-**Git** -- [download](https://git-scm.com/)
-
 **PyCharm** -- [download](https://www.jetbrains.com/pycharm/)
 
 
