@@ -8,7 +8,7 @@ This is the official repository for the "Algorithms Engineering" course at BSc i
 ## Authors
 Giacomo Marciani, [gmarciani@acm.org](mailto:gmarciani@acm.org)
 
-Laura Trivelloni, [me@gmail.com](mailto:me@gmail.com)
+Laura Trivelloni, [laura.trivelloni@alumni.uniroma2.eu](mailto:laura.trivelloni@alumni.uniroma2.eu)
 
 Emanuele Vannacci, [me@gmail.com](mailto:me@gmail.com)
 
