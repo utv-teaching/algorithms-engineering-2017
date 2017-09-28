@@ -2,7 +2,7 @@
 
 
 ## Informazioni Generali
-Questo sito è relativo alla parte pratica del corso di Ingegneria degli algoritmi per l’anno accademico 2017/2018.
+Questo sito è relativo alla parte pratica del corso di *Ingegneria degli Algoritmi* per l’anno accademico 2017/2018.
 L’obiettivo del corso è fornire agli studenti le competenze di design, analisi e implementazione di algoritmi e strutture dati in Python.
 Questa parte del corso è svolta  dall’Ing. Giacomo Marciani, Ing. Laura Trivelloni e Ing. Emanuele Vannacci.
 
@@ -22,12 +22,12 @@ Vi chiediamo gentilmente di premettere nell’oggetto l’header *[IA17]*.
 
 
 ## Modalità di esame
-La prova consiste nell'implementazione in Python di soluzioni a problemi algoritmici ed influirà sul 25% del voto in Ingegneria degli Algoritmi.
-Potrete decidere di svolgere la prova pratica in due diverse modalità:
-* Due prove in itinere. La prima prova di bassa complessità, da svolgersi individualmente. La seconda prova di media complessità, da svolgersi individualmente o in team (al più 3 persone).
-* Una prova finale di complessità elevata, da svolgersi individualmente o in team (al più 3 persone).
+La prova consiste nell'implementazione in Python di soluzioni a problemi algoritmici ed influirà sul *25% del voto* in Ingegneria degli Algoritmi.
+Potrete decidere di svolgere la prova pratica in *due modalità, mutuamente eslcusive*:
+* **Due prove in itinere**. La prima prova di bassa complessità, da svolgersi individualmente. La seconda prova di media complessità, da svolgersi individualmente o in team (al più 3 persone).
+* **Una prova finale** di complessità elevata, da svolgersi individualmente o in team (al più 3 persone).
 
-È caldamente consigliato lo svolgimento delle prove in itinere.
+  > È consigliato lo svolgimento delle prove in itinere.
 
 
 ## Lezioni
