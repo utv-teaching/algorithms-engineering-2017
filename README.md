@@ -38,12 +38,12 @@ Potrete decidere di svolgere la prova pratica in *due modalità, mutuamente eslc
 | 23/10/2017 | Liste, Code, Pile                    | Trivelloni |            |
 | 30/10/2017 | Algoritmi di ordinamento             | Marciani   |            |
 | 06/11/2017 | Algoritmi di selezione               | Vannacci   |            |
-| 13/11/2017 | Alberi, Progetto-1                   | Trivelloni |            |
+| 13/11/2017 | Alberi, Progetto in itinere 1                   | Trivelloni |            |
 | 20/11/2017 | Tabelle Hash                         | Marciani   |            |
 | 27/11/2017 | Code con priorità                    | Vannacci   |            |
 | 04/12/2017 | Union-Find                           | Trivelloni |            |
 | 11/12/2017 | Grafi, Visite su grafi               | Marciani   |            |
-| 18/12/2017 | Minimo albero ricoprente, Progetto-2 | Vannacci   |            |
+| 18/12/2017 | Minimo albero ricoprente, Progetto in itinere 2 | Vannacci   |            |
 | 22/12/2017 | Cammini minimi, Progetto finale      | Trivelloni |            |
 | 10/01/2017 | Q&A                                  | Marciani   |            |
 
