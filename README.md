@@ -43,8 +43,7 @@ Potrete decidere di svolgere la prova pratica in *due modalità, mutuamente eslc
 | 27/11/2017 | Code con priorità                    | Vannacci   |            |
 | 04/12/2017 | Union-Find                           | Trivelloni |            |
 | 11/12/2017 | Grafi, Visite su grafi               | Marciani   |            |
-| 18/12/2017 | Minimo albero ricoprente,
-               Progetto in itinere 2                | Vannacci   |            |
+| 18/12/2017 | MST, Progetto in itinere 2           | Vannacci   |            |
 | 22/12/2017 | Cammini minimi, Progetto finale      | Trivelloni |            |
 | 10/01/2017 | Q&A                                  | *          |            |
 
