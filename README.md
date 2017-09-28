@@ -7,7 +7,7 @@ L’obiettivo del corso è fornire agli studenti le competenze di design, analis
 Questa parte del corso è svolta  dall’Ing. Giacomo Marciani, Ing. Laura Trivelloni e Ing. Emanuele Vannacci.
 
 
-## ORARIO
+## Orario
 Orario valido dal 16/10/2017 al 10/01/2018
 
   > Lunedi dalle 14:00 alle 15:45, aula B2
