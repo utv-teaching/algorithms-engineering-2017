@@ -31,8 +31,9 @@ Potrete decidere di svolgere la prova pratica in *due modalità, mutuamente eslc
 
 
 ## Lezioni
+
 | Giorno     | Argomento                            | Docente    | Materiale  |
-| ---------- | ------------------------------------ | ---------- | ---------- |
+|------------|--------------------------------------|------------|------------|
 | 16/10/2017 | Python                               | Vannacci   |            |
 | 23/10/2017 | Liste, Code, Pile                    | Trivelloni |            |
 | 30/10/2017 | Algoritmi di ordinamento             | Marciani   |            |
