@@ -27,7 +27,7 @@ The course is thought by Eng. Giacomo Marciani, Eng. Laura Trivelloni and Eng. E
 | Union-Find                       | Trivelloni |           |
 | Graphs, visits                   | Marciani   |           |
 | MST, project 2                   | Vannacci   |           |
-| Minimal path, final project     | Trivelloni |           |
+| Minimal path, final project      | Trivelloni |           |
 | Q&A                              | *          |           |
 
 
