@@ -4,6 +4,7 @@
 ## Informazioni Generali
 Questo sito è relativo alla parte pratica del corso di *Ingegneria degli Algoritmi* per l’anno accademico 2017/2018.
 L’obiettivo del corso è fornire agli studenti le competenze di design, analisi e implementazione di algoritmi e strutture dati in Python.
+
 Questa parte del corso è svolta  dall’Ing. Giacomo Marciani, Ing. Laura Trivelloni e Ing. Emanuele Vannacci.
 
 
