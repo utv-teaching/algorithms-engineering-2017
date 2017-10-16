@@ -48,6 +48,9 @@ Potrete decidere di svolgere la prova pratica in *due modalità, mutuamente eslc
 | 22/12/2017 | Cammini minimi, Progetto finale      | Trivelloni |            |
 | 10/01/2017 | Q&A                                  | *          |            |
 
+[1]:https://github.com/utv-teaching/algorithms-engineering-2017/raw/gh-pages/slide/Python.pdf
+[2]:https://github.com/utv-teaching/algorithms-engineering-2017/raw/gh-pages/code/fibonacci.zip
+
 ## Risorse
 **Python** -- [download](https://www.python.org/)
 
