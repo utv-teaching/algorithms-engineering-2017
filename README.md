@@ -12,7 +12,9 @@ Questa parte del corso è svolta  dall’Ing. Giacomo Marciani, Ing. Laura Trive
 Orario valido dal 16/10/2017 al 10/01/2018
 
   > Lunedi dalle 14:00 alle 15:45 in B2
+
   > Mercoledi dalle 14:00 alle 15:45 in Aula 1
+
   > Venerdi dalle 14:00 alle 15:45 in A2
 
 
