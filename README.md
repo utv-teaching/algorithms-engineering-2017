@@ -40,7 +40,7 @@ Potrete decidere di svolgere la prova pratica in *due modalità, mutuamente eslc
 | Giorno     | Argomento                            | Docente    | Materiale            |
 |------------|--------------------------------------|------------|----------------------|
 | 16/10/2017 | Python                               | Vannacci   | [slide][1] [code][2]|
-| 25/10/2017 | Liste, Pile, Code                    | Trivelloni | -          |
+| 23/10/2017 | Liste, Pile, Code                    | Trivelloni | -          |
 | 30/10/2017 | Algoritmi di ordinamento             | Vannacci   | -          |
 | 10/11/2017 | Algoritmi di selezione               | Trivelloni | -          |
 | 13/11/2017 | Alberi, Progetto in itinere 1        | Vannacci   | -          |
