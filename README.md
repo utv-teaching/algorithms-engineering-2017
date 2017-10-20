@@ -11,7 +11,9 @@ Questa parte del corso è svolta  dall’Ing. Giacomo Marciani, Ing. Laura Trive
 ## Orario
 Orario valido dal 16/10/2017 al 10/01/2018
 
-  > Lunedi dalle 14:00 alle 15:45, aula B2
+  > Lunedi dalle 14:00 alle 15:45 in B2
+  > Mercoledi dalle 14:00 alle 15:45 in Aula 1
+  > Venerdi dalle 14:00 alle 15:45 in A2
 
 
 ## Contatti
@@ -33,20 +35,22 @@ Potrete decidere di svolgere la prova pratica in *due modalità, mutuamente eslc
 
 ## Lezioni
 
-| Giorno     | Argomento                            | Docente    | Materiale |
-|------------|--------------------------------------|------------|---------------------|
-| 16/10/2017 | Python                               | Vannacci   |[slide][1] [code][2]  |
-| 23/10/2017 | Liste, Code, Pile                    | Trivelloni |            |
-| 30/10/2017 | Algoritmi di ordinamento             | Marciani   |            |
-| 06/11/2017 | Algoritmi di selezione               | Vannacci   |            |
-| 13/11/2017 | Alberi, Progetto in itinere 1        | Trivelloni |            |
-| 20/11/2017 | Tabelle Hash                         | Marciani   |            |
-| 27/11/2017 | Code con priorità                    | Vannacci   |            |
-| 04/12/2017 | Union-Find                           | Trivelloni |            |
-| 11/12/2017 | Grafi, Visite su grafi               | Marciani   |            |
-| 18/12/2017 | MST, Progetto in itinere 2           | Vannacci   |            |
-| 22/12/2017 | Cammini minimi, Progetto finale      | Trivelloni |            |
-| 10/01/2017 | Q&A                                  | *          |            |
+| Giorno     | Argomento                            | Docente    | Materiale            |
+|------------|--------------------------------------|------------|----------------------|
+| 16/10/2017 | Python                               | Vannacci   | [slide][1] [code][2]|
+| 25/10/2017 | Liste, Pile, Code                    | Trivelloni | -          |
+| 30/10/2017 | Algoritmi di ordinamento             | Vannacci   | -          |
+| 10/11/2017 | Algoritmi di selezione               | Trivelloni | -          |
+| 13/11/2017 | Alberi, Progetto in itinere 1        | Vannacci   | -          |
+| 20/11/2017 | Tabelle Hash                         | Trivelloni | -          |
+| 29/11/2017 | Code con priorità                    | Vannacci   | -          |
+| 04/12/2017 | Union-Find                           | Trivelloni | -          |
+| 11/12/2017 | Grafi, Visite su grafi               | Marciani   | -          |
+| 18/12/2017 | MST, Progetto in itinere 2           | Marciani   | -          |
+| 22/12/2017 | Cammini minimi, Progetto finale      | Marciani   | -          |
+| 10/01/2017 | Q&A                                  | *          | -          |
+
+(\*) tutti i tutor saranno presenti.
 
 [1]:https://github.com/utv-teaching/algorithms-engineering-2017/raw/gh-pages/slide/Python.pdf
 [2]:https://github.com/utv-teaching/algorithms-engineering-2017/raw/gh-pages/code/fibonacci.zip
