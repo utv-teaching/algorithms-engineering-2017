@@ -40,7 +40,7 @@ Potrete decidere di svolgere la prova pratica in *due modalità, mutuamente eslc
 | Giorno     | Argomento                            | Docente    | Materiale            |
 |------------|--------------------------------------|------------|----------------------|
 | 16/10/2017 | Python                               | Vannacci   | [slide][1] [code][2]|
-| 23/10/2017 | Liste, Pile, Code                    | Trivelloni | -          |
+| 23/10/2017 | Liste, Pile, Code                    | Trivelloni | [slide][3] [code][4]|
 | 30/10/2017 | Algoritmi di ordinamento             | Vannacci   | -          |
 | 10/11/2017 | Algoritmi di selezione               | Trivelloni | -          |
 | 13/11/2017 | Alberi, Progetto in itinere 1        | Vannacci   | -          |
@@ -56,6 +56,8 @@ Potrete decidere di svolgere la prova pratica in *due modalità, mutuamente eslc
 
 [1]:https://github.com/utv-teaching/algorithms-engineering-2017/raw/gh-pages/slide/Python.pdf
 [2]:https://github.com/utv-teaching/algorithms-engineering-2017/raw/gh-pages/code/fibonacci.zip
+[3]:https://github.com/utv-teaching/algorithms-engineering-2017/raw/gh-pages/slide/lste_code_pile.pdf
+[4]:https://github.com/utv-teaching/algorithms-engineering-2017/raw/gh-pages/code/tut_20171023.zip
 
 ## Risorse
 **Python** -- [download](https://www.python.org/)
