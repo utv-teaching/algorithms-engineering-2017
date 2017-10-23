@@ -56,7 +56,7 @@ Potrete decidere di svolgere la prova pratica in *due modalità, mutuamente eslc
 
 [1]:https://github.com/utv-teaching/algorithms-engineering-2017/raw/gh-pages/slide/Python.pdf
 [2]:https://github.com/utv-teaching/algorithms-engineering-2017/raw/gh-pages/code/fibonacci.zip
-[3]:https://github.com/utv-teaching/algorithms-engineering-2017/raw/gh-pages/slide/liste_code_pile.pdf
+[3]:https://github.com/utv-teaching/algorithms-engineering-2017/raw/gh-pages/slide/liste_pile_code.pdf
 [4]:https://github.com/utv-teaching/algorithms-engineering-2017/raw/gh-pages/code/tut_20171023.zip
 
 ## Risorse
