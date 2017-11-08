@@ -44,8 +44,8 @@ Potrete decidere di svolgere la prova pratica in *due modalità, mutuamente eslc
 | 30/10/2017 | Algoritmi di ordinamento             | Vannacci   | [slide][5] [code][6]|
 | 10/11/2017 | Algoritmi di selezione               | Trivelloni | -          |
 | 13/11/2017 | Alberi, Progetto in itinere 1        | Vannacci   | -          |
-| 20/11/2017 | Tabelle Hash                         | Trivelloni | -          |
-| 29/11/2017 | Code con priorità                    | Vannacci   | -          |
+| 29/11/2017 | Tabelle Hash                         | Trivelloni | -          |
+| 01/12/2017 | Code con priorità                    | Vannacci   | -          |
 | 04/12/2017 | Union-Find                           | Trivelloni | -          |
 | 11/12/2017 | Grafi, Visite su grafi               | Marciani   | -          |
 | 18/12/2017 | MST, Progetto in itinere 2           | Marciani   | -          |
