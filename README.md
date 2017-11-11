@@ -60,8 +60,8 @@ Potrete decidere di svolgere la prova pratica in *due modalità, mutuamente eslc
 [4]:https://github.com/utv-teaching/algorithms-engineering-2017/raw/gh-pages/code/tut_20171023.zip
 [5]:https://github.com/utv-teaching/algorithms-engineering-2017/raw/gh-pages/slide/esercizio_ordinamento.pdf
 [6]:https://github.com/utv-teaching/algorithms-engineering-2017/raw/gh-pages/code/sorting.zip
-[5]:https://github.com/utv-teaching/algorithms-engineering-2017/raw/gh-pages/slide/tut_20171110.pdf
-[6]:https://github.com/utv-teaching/algorithms-engineering-2017/raw/gh-pages/code/tut_20171110.zip
+[7]:https://github.com/utv-teaching/algorithms-engineering-2017/raw/gh-pages/slide/tut_20171110.pdf
+[8]:https://github.com/utv-teaching/algorithms-engineering-2017/raw/gh-pages/code/tut_20171110.zip
 
 ## Risorse
 **Python** -- [download](https://www.python.org/)
