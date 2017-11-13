@@ -1,4 +1,5 @@
   > **Avviso** Sono disponibile le tracce dei problemi per la prima prova pratica in itinere [qui][11]
+  
   > **Avviso** Vi consigliamo di portare a lezione il vostro computer.
 
 
