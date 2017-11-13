@@ -1,3 +1,4 @@
+  > **Avviso** Sono disponibile le tracce dei problemi per la prima prova pratica in itinere [qui][11]
   > **Avviso** Vi consigliamo di portare a lezione il vostro computer.
 
 
@@ -35,6 +36,9 @@ Potrete decidere di svolgere la prova pratica in *due modalità, mutuamente eslc
   > È consigliato lo svolgimento delle prove in itinere.
 
 
+## Progetti
+* [Download della prima prova pratica in itinere][11]
+
 ## Lezioni
 
 | Giorno     | Argomento                            | Docente    | Materiale            |
@@ -43,7 +47,7 @@ Potrete decidere di svolgere la prova pratica in *due modalità, mutuamente eslc
 | 23/10/2017 | Liste, Pile, Code                    | Trivelloni | [slide][3] [code][4]|
 | 30/10/2017 | Algoritmi di ordinamento             | Vannacci   | [slide][5] [code][6]|
 | 10/11/2017 | Algoritmi di selezione               | Trivelloni | [slide][7] [code][8]|
-| 13/11/2017 | Alberi, Progetto in itinere 1        | Vannacci   | -          |
+| 13/11/2017 | Alberi, Progetto in itinere 1        | Vannacci   | [slide][9] [code][10]        |
 | 29/11/2017 | Tabelle Hash                         | Trivelloni | -          |
 | 01/12/2017 | Code con priorità                    | Vannacci   | -          |
 | 04/12/2017 | Union-Find                           | Trivelloni | -          |
@@ -62,6 +66,9 @@ Potrete decidere di svolgere la prova pratica in *due modalità, mutuamente eslc
 [6]:https://github.com/utv-teaching/algorithms-engineering-2017/raw/gh-pages/code/sorting.zip
 [7]:https://github.com/utv-teaching/algorithms-engineering-2017/raw/gh-pages/slide/tut_20171110.pdf
 [8]:https://github.com/utv-teaching/algorithms-engineering-2017/raw/gh-pages/code/tut_20171110.zip
+[9]: https://github.com/utv-teaching/algorithms-engineering-2017/raw/gh-pages/slide/tree-slides.pdf
+[10]:https://github.com/utv-teaching/algorithms-engineering-2017/raw/gh-pages/code/dictionary_tree.zip
+[11]: https://github.com/utv-teaching/algorithms-engineering-2017/raw/gh-pages/slide/prova-itinere-1.pdf
 
 ## Risorse
 **Python** -- [download](https://www.python.org/)
