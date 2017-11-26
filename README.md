@@ -1,3 +1,5 @@
+  > **Avviso** Il giorno 11/12 non ci sarà lezione.
+
   > **Avviso** Sono disponibili le tracce dei problemi per la prima prova pratica in itinere [qui][11]
 
   > **Avviso** Vi consigliamo di portare a lezione il vostro computer.
