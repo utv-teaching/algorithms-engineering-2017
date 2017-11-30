@@ -51,8 +51,8 @@ Potrete decidere di svolgere la prova pratica in *due modalità, mutuamente eslc
 | 23/10/2017 | Liste, Pile, Code                    | Trivelloni | [slide][3] [code][4]|
 | 30/10/2017 | Algoritmi di ordinamento             | Vannacci   | [slide][5] [code][6]|
 | 10/11/2017 | Algoritmi di selezione               | Trivelloni | [slide][7] [code][8]|
-| 13/11/2017 | Alberi, Progetto in itinere 1        | Vannacci   | [slide][9] [code][10]        |
-| 29/11/2017 | Tabelle Hash                         | Trivelloni | -          |
+| 13/11/2017 | Alberi, Progetto in itinere 1        | Vannacci   | [slide][9] [code][10]|
+| 29/11/2017 | Tabelle Hash                         | Trivelloni | [slide][13] [code][12]|
 | 01/12/2017 | Code con priorità                    | Vannacci   | -          |
 | 04/12/2017 | Union-Find                           | Trivelloni | -          |
 | 18/12/2017 | Grafi, Visite su grafi               | Marciani   | -          |
@@ -73,6 +73,8 @@ Potrete decidere di svolgere la prova pratica in *due modalità, mutuamente eslc
 [9]: https://github.com/utv-teaching/algorithms-engineering-2017/raw/gh-pages/slide/tree-slides.pdf
 [10]:https://github.com/utv-teaching/algorithms-engineering-2017/raw/gh-pages/code/dictionary_tree.zip
 [11]: https://github.com/utv-teaching/algorithms-engineering-2017/raw/gh-pages/slide/prova-itinere-1.pdf
+[12]:https://github.com/utv-teaching/algorithms-engineering-2017/raw/gh-pages/code/tabellehash.zip
+[13]: https://github.com/utv-teaching/algorithms-engineering-2017/raw/gh-pages/slide/tabelle_hash.pdf
 
 ## Risorse
 **Python** -- [download](https://www.python.org/)
