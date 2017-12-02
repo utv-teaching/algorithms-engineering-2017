@@ -1,3 +1,5 @@
+  > **Avviso** Vi ricordiamo che la completezza della relazione (decrizione dell'algoritmo e analisi dei tempi) e la qualità del codice (modularità e commenti) sono necessari ai fini di una giusta valutazione del progetto.
+
   > **Avviso** Il giorno 11/12 non ci sarà lezione.
 
   > **Avviso** Sono disponibili le tracce dei problemi per la prima prova pratica in itinere [qui][11]
