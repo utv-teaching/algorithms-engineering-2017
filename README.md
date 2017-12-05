@@ -56,7 +56,7 @@ Potrete decidere di svolgere la prova pratica in *due modalità, mutuamente eslc
 | 13/11/2017 | Alberi, Progetto in itinere 1        | Vannacci   | [slide][9] [code][10]|
 | 29/11/2017 | Tabelle Hash                         | Trivelloni | [slide][13] [code][12]|
 | 01/12/2017 | Code con priorità                    | Vannacci   | [code][14]          |
-| 04/12/2017 | Union-Find                           | Trivelloni | -          |
+| 04/12/2017 | Union-Find                           | Trivelloni | [slide][15] [code][16]          |
 | 18/12/2017 | Grafi, Visite su grafi               | Marciani   | -          |
 | 22/12/2017 | MST, Progetto in itinere 2           | Marciani   | -          |
 | 10/01/2018 | Cammini minimi, Progetto finale      | Marciani   | -          |
@@ -78,6 +78,8 @@ Potrete decidere di svolgere la prova pratica in *due modalità, mutuamente eslc
 [12]:https://github.com/utv-teaching/algorithms-engineering-2017/raw/gh-pages/code/tabellehash.zip
 [13]:https://github.com/utv-teaching/algorithms-engineering-2017/raw/gh-pages/slide/tabelle_hash.pdf
 [14]:https://github.com/utv-teaching/algorithms-engineering-2017/raw/gh-pages/code/priorityQueue.zip
+[15]:https://github.com/utv-teaching/algorithms-engineering-2017/raw/gh-pages/slide/union_find.pdf
+[16]:https://github.com/utv-teaching/algorithms-engineering-2017/raw/gh-pages/code/unionFind.zip
 
 ## Risorse
 **Python** -- [download](https://www.python.org/)
