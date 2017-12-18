@@ -49,15 +49,15 @@ Potrete decidere di svolgere la prova pratica in *due modalità, mutuamente eslc
 
 | Giorno     | Argomento                            | Docente    | Materiale            |
 |------------|--------------------------------------|------------|----------------------|
-| 16/10/2017 | Python                               | Vannacci   | [slide][1] [code][2]|
-| 23/10/2017 | Liste, Pile, Code                    | Trivelloni | [slide][3] [code][4]|
-| 30/10/2017 | Algoritmi di ordinamento             | Vannacci   | [slide][5] [code][6]|
-| 10/11/2017 | Algoritmi di selezione               | Trivelloni | [slide][7] [code][8]|
-| 13/11/2017 | Alberi, Progetto in itinere 1        | Vannacci   | [slide][9] [code][10]|
-| 29/11/2017 | Tabelle Hash                         | Trivelloni | [slide][13] [code][12]|
-| 01/12/2017 | Code con priorità                    | Vannacci   | [code][14]          |
-| 04/12/2017 | Union-Find                           | Trivelloni | [slide][15] [code][16]          |
-| 18/12/2017 | Grafi, Visite su grafi               | Marciani   | -          |
+| 16/10/2017 | Python                               | Vannacci   | [slide][1] [code][2] |
+| 23/10/2017 | Liste, Pile, Code                    | Trivelloni | [slide][3] [code][4] |
+| 30/10/2017 | Algoritmi di ordinamento             | Vannacci   | [slide][5] [code][6] |
+| 10/11/2017 | Algoritmi di selezione               | Trivelloni | [slide][7] [code][8] |
+| 13/11/2017 | Alberi, Progetto in itinere 1        | Vannacci   | [slide][9] [code][10] |
+| 29/11/2017 | Tabelle Hash                         | Trivelloni | [slide][13] [code][12] |
+| 01/12/2017 | Code con priorità                    | Vannacci   | [code][14] |
+| 04/12/2017 | Union-Find                           | Trivelloni | [slide][15] [code][16] |
+| 18/12/2017 | Grafi, Visite su grafi               | Marciani   | [slide][17] [code][18] |
 | 22/12/2017 | MST, Progetto in itinere 2           | Marciani   | -          |
 | 10/01/2018 | Cammini minimi, Progetto finale      | Marciani   | -          |
 | 12/01/2018 | Q&A                                  | *          | -          |
@@ -80,6 +80,8 @@ Potrete decidere di svolgere la prova pratica in *due modalità, mutuamente eslc
 [14]:https://github.com/utv-teaching/algorithms-engineering-2017/raw/gh-pages/code/priorityQueue.zip
 [15]:https://github.com/utv-teaching/algorithms-engineering-2017/raw/gh-pages/slide/union_find.pdf
 [16]:https://github.com/utv-teaching/algorithms-engineering-2017/raw/gh-pages/code/unionFind.zip
+[17]:https://github.com/utv-teaching/algorithms-engineering-2017/raw/gh-pages/slide/graph.pdf
+[18]:https://github.com/utv-teaching/algorithms-engineering-2017/raw/gh-pages/code/graph.zip
 
 ## Risorse
 **Python** -- [download](https://www.python.org/)
