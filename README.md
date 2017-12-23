@@ -56,13 +56,13 @@ Potrete decidere di svolgere la prova pratica in *due modalità, mutuamente eslc
 | 23/10/2017 | Liste, Pile, Code                    | Trivelloni | [slide][3] [codice][4] |
 | 30/10/2017 | Algoritmi di ordinamento             | Vannacci   | [slide][5] [codice][6] |
 | 10/11/2017 | Algoritmi di selezione               | Trivelloni | [slide][7] [codice][8] |
-| 13/11/2017 | Alberi, Progetto in itinere 1        | Vannacci   | [slide][9] [codice][10] |
+| 13/11/2017 | Alberi, Prova 1                      | Vannacci   | [slide][9] [codice][10] |
 | 29/11/2017 | Tabelle Hash                         | Trivelloni | [slide][13] [codice][12] |
 | 01/12/2017 | Code con priorità                    | Vannacci   | [codice][14] |
 | 04/12/2017 | Union-Find                           | Trivelloni | [slide][15] [codice][16] |
 | 18/12/2017 | Grafi, Visite su grafi               | Marciani   | [slide][17] [codice][18] |
-| 22/12/2017 | MST, Progetto in itinere 2           | Marciani   | [slide][19] [codice][20] |
-| 10/01/2018 | Cammini minimi, Progetto finale      | Marciani   | -          |
+| 22/12/2017 | MST, Prova 2                         | Marciani   | [slide][19] [codice][20] |
+| 10/01/2018 | Cammini minimi, Progetto             | Marciani   | -          |
 | 12/01/2018 | Q&A                                  | *          | -          |
 
 (\*) tutti i tutor saranno presenti.
