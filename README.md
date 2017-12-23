@@ -43,45 +43,49 @@ Potrete decidere di svolgere la prova pratica in *due modalità, mutuamente eslc
 
 
 ## Progetti
-* [Download della prima prova pratica in itinere][11]
+* [Prova pratica in itinere 1][11]
+* [Prova pratica in itinere 2][21]
 
 ## Lezioni
 
 | Giorno     | Argomento                            | Docente    | Materiale            |
 |------------|--------------------------------------|------------|----------------------|
-| 16/10/2017 | Python                               | Vannacci   | [slide][1] [code][2] |
-| 23/10/2017 | Liste, Pile, Code                    | Trivelloni | [slide][3] [code][4] |
-| 30/10/2017 | Algoritmi di ordinamento             | Vannacci   | [slide][5] [code][6] |
-| 10/11/2017 | Algoritmi di selezione               | Trivelloni | [slide][7] [code][8] |
-| 13/11/2017 | Alberi, Progetto in itinere 1        | Vannacci   | [slide][9] [code][10] |
-| 29/11/2017 | Tabelle Hash                         | Trivelloni | [slide][13] [code][12] |
-| 01/12/2017 | Code con priorità                    | Vannacci   | [code][14] |
-| 04/12/2017 | Union-Find                           | Trivelloni | [slide][15] [code][16] |
-| 18/12/2017 | Grafi, Visite su grafi               | Marciani   | [slide][17] [code][18] |
-| 22/12/2017 | MST, Progetto in itinere 2           | Marciani   | -          |
+| 16/10/2017 | Python                               | Vannacci   | [slide][1] [codice][2] |
+| 23/10/2017 | Liste, Pile, Code                    | Trivelloni | [slide][3] [codice][4] |
+| 30/10/2017 | Algoritmi di ordinamento             | Vannacci   | [slide][5] [codice][6] |
+| 10/11/2017 | Algoritmi di selezione               | Trivelloni | [slide][7] [codice][8] |
+| 13/11/2017 | Alberi, Progetto in itinere 1        | Vannacci   | [slide][9] [codice][10] |
+| 29/11/2017 | Tabelle Hash                         | Trivelloni | [slide][13] [codice][12] |
+| 01/12/2017 | Code con priorità                    | Vannacci   | [codice][14] |
+| 04/12/2017 | Union-Find                           | Trivelloni | [slide][15] [codice][16] |
+| 18/12/2017 | Grafi, Visite su grafi               | Marciani   | [slide][17] [codice][18] |
+| 22/12/2017 | MST, Progetto in itinere 2           | Marciani   | [slide][19] [codice][20] |
 | 10/01/2018 | Cammini minimi, Progetto finale      | Marciani   | -          |
 | 12/01/2018 | Q&A                                  | *          | -          |
 
 (\*) tutti i tutor saranno presenti.
 
 [1]:https://github.com/utv-teaching/algorithms-engineering-2017/raw/gh-pages/slide/Python.pdf
-[2]:https://github.com/utv-teaching/algorithms-engineering-2017/raw/gh-pages/code/fibonacci.zip
+[2]:https://github.com/utv-teaching/algorithms-engineering-2017/raw/gh-pages/codice/fibonacci.zip
 [3]:https://github.com/utv-teaching/algorithms-engineering-2017/raw/gh-pages/slide/liste_pile_code.pdf
-[4]:https://github.com/utv-teaching/algorithms-engineering-2017/raw/gh-pages/code/tut_20171023.zip
+[4]:https://github.com/utv-teaching/algorithms-engineering-2017/raw/gh-pages/codice/tut_20171023.zip
 [5]:https://github.com/utv-teaching/algorithms-engineering-2017/raw/gh-pages/slide/esercizio_ordinamento.pdf
-[6]:https://github.com/utv-teaching/algorithms-engineering-2017/raw/gh-pages/code/sorting.zip
+[6]:https://github.com/utv-teaching/algorithms-engineering-2017/raw/gh-pages/codice/sorting.zip
 [7]:https://github.com/utv-teaching/algorithms-engineering-2017/raw/gh-pages/slide/tut_20171110.pdf
-[8]:https://github.com/utv-teaching/algorithms-engineering-2017/raw/gh-pages/code/tut_20171110.zip
+[8]:https://github.com/utv-teaching/algorithms-engineering-2017/raw/gh-pages/codice/tut_20171110.zip
 [9]: https://github.com/utv-teaching/algorithms-engineering-2017/raw/gh-pages/slide/tree-slides.pdf
-[10]:https://github.com/utv-teaching/algorithms-engineering-2017/raw/gh-pages/code/dictionary_tree.zip
-[11]:https://github.com/utv-teaching/algorithms-engineering-2017/raw/gh-pages/slide/prova-itinere-1.pdf
-[12]:https://github.com/utv-teaching/algorithms-engineering-2017/raw/gh-pages/code/tabellehash.zip
+[10]:https://github.com/utv-teaching/algorithms-engineering-2017/raw/gh-pages/codice/dictionary_tree.zip
+[11]:https://github.com/utv-teaching/algorithms-engineering-2017/raw/gh-pages/test/prova-itinere-1.pdf
+[12]:https://github.com/utv-teaching/algorithms-engineering-2017/raw/gh-pages/codice/tabellehash.zip
 [13]:https://github.com/utv-teaching/algorithms-engineering-2017/raw/gh-pages/slide/tabelle_hash.pdf
-[14]:https://github.com/utv-teaching/algorithms-engineering-2017/raw/gh-pages/code/priorityQueue.zip
+[14]:https://github.com/utv-teaching/algorithms-engineering-2017/raw/gh-pages/codice/priorityQueue.zip
 [15]:https://github.com/utv-teaching/algorithms-engineering-2017/raw/gh-pages/slide/union_find.pdf
-[16]:https://github.com/utv-teaching/algorithms-engineering-2017/raw/gh-pages/code/unionFind.zip
+[16]:https://github.com/utv-teaching/algorithms-engineering-2017/raw/gh-pages/codice/unionFind.zip
 [17]:https://github.com/utv-teaching/algorithms-engineering-2017/raw/gh-pages/slide/graph.pdf
-[18]:https://github.com/utv-teaching/algorithms-engineering-2017/raw/gh-pages/code/graph.zip
+[18]:https://github.com/utv-teaching/algorithms-engineering-2017/raw/gh-pages/codice/graph.zip
+[19]:https://github.com/utv-teaching/algorithms-engineering-2017/raw/gh-pages/slide/graph-mst.pdf
+[20]:https://github.com/utv-teaching/algorithms-engineering-2017/raw/gh-pages/codice/graph-mst.zip
+[21]:https://github.com/utv-teaching/algorithms-engineering-2017/raw/gh-pages/test/prova-itinere-2.pdf
 
 ## Risorse
 **Python** -- [download](https://www.python.org/)
