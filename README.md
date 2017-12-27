@@ -1,6 +1,4 @@
-﻿  > **Avviso** Sono state aggiornate le tracce della [seconda prova pratica in itinere][21]  
-
-  > **Avviso** Sono disponibili le tracce della [seconda prova pratica in itinere][21]  
+﻿  > **Avviso** Sono disponibili le tracce della [seconda prova pratica in itinere][21]  
 
   > **Avviso** Vi ricordiamo che la completezza della relazione (decrizione dell'algoritmo e analisi dei tempi) e la qualità del codice (modularità e commenti) sono necessari ai fini di una giusta valutazione del progetto.
 
