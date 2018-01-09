@@ -1,3 +1,13 @@
+﻿  > **Avviso** Sono disponibili le tracce aggiornate della [seconda prova pratica in itinere][21]  
+
+  > **Avviso** Sono disponibili le tracce della [seconda prova pratica in itinere][21]  
+
+  > **Avviso** Vi ricordiamo che la completezza della relazione (decrizione dell'algoritmo e analisi dei tempi) e la qualità del codice (modularità e commenti) sono necessari ai fini di una giusta valutazione del progetto.
+
+  > **Avviso** Il giorno 11/12 non ci sarà lezione.
+
+  > **Avviso** Sono disponibili le tracce della [prima prova pratica in itinere][11]
+
   > **Avviso** Vi consigliamo di portare a lezione il vostro computer.
 
 
@@ -29,33 +39,57 @@ Vi chiediamo gentilmente di premettere nell’oggetto l’header *[IA17]*.
 ## Modalità di esame
 La prova consiste nell'implementazione in Python di soluzioni a problemi algoritmici ed influirà sul *25% del voto* in Ingegneria degli Algoritmi.
 Potrete decidere di svolgere la prova pratica in *due modalità, mutuamente eslcusive*:
+
 * **Due prove in itinere**. La prima prova di bassa complessità, da svolgersi individualmente. La seconda prova di media complessità, da svolgersi individualmente o in team (al più 3 persone).
 * **Una prova finale** di complessità elevata, da svolgersi individualmente o in team (al più 3 persone).
 
   > È consigliato lo svolgimento delle prove in itinere.
 
 
+## Progetti
+* [Prova pratica in itinere 1][11]
+* [Prova pratica in itinere 2][21]
+
 ## Lezioni
 
 | Giorno     | Argomento                            | Docente    | Materiale            |
 |------------|--------------------------------------|------------|----------------------|
-| 16/10/2017 | Python                               | Vannacci   | [slide][1] [code][2]|
-| 23/10/2017 | Liste, Pile, Code                    | Trivelloni | -          |
-| 30/10/2017 | Algoritmi di ordinamento             | Vannacci   | -          |
-| 10/11/2017 | Algoritmi di selezione               | Trivelloni | -          |
-| 13/11/2017 | Alberi, Progetto in itinere 1        | Vannacci   | -          |
-| 20/11/2017 | Tabelle Hash                         | Trivelloni | -          |
-| 29/11/2017 | Code con priorità                    | Vannacci   | -          |
-| 04/12/2017 | Union-Find                           | Trivelloni | -          |
-| 11/12/2017 | Grafi, Visite su grafi               | Marciani   | -          |
-| 18/12/2017 | MST, Progetto in itinere 2           | Marciani   | -          |
-| 22/12/2017 | Cammini minimi, Progetto finale      | Marciani   | -          |
-| 10/01/2017 | Q&A                                  | *          | -          |
+| 16/10/2017 | Python                               | Vannacci   | [slide][1] [codice][2] |
+| 23/10/2017 | Liste, Pile, Code                    | Trivelloni | [slide][3] [codice][4] |
+| 30/10/2017 | Algoritmi di ordinamento             | Vannacci   | [slide][5] [codice][6] |
+| 10/11/2017 | Algoritmi di selezione               | Trivelloni | [slide][7] [codice][8] |
+| 13/11/2017 | Alberi, Prova 1                      | Vannacci   | [slide][9] [codice][10] |
+| 29/11/2017 | Tabelle Hash                         | Trivelloni | [slide][13] [codice][12] |
+| 01/12/2017 | Code con priorità                    | Vannacci   | [codice][14] |
+| 04/12/2017 | Union-Find                           | Trivelloni | [slide][15] [codice][16] |
+| 18/12/2017 | Grafi, Visite su grafi               | Marciani   | [slide][17] [codice][18] |
+| 22/12/2017 | MST, Prova 2                         | Marciani   | [slide][19] [codice][20] |
+| 10/01/2018 | Cammini minimi, Progetto             | Marciani   | -          |
+| 12/01/2018 | Q&A                                  | *          | -          |
 
 (\*) tutti i tutor saranno presenti.
 
 [1]:https://github.com/utv-teaching/algorithms-engineering-2017/raw/gh-pages/slide/Python.pdf
-[2]:https://github.com/utv-teaching/algorithms-engineering-2017/raw/gh-pages/code/fibonacci.zip
+[2]:https://github.com/utv-teaching/algorithms-engineering-2017/raw/gh-pages/codice/fibonacci.zip
+[3]:https://github.com/utv-teaching/algorithms-engineering-2017/raw/gh-pages/slide/liste_pile_code.pdf
+[4]:https://github.com/utv-teaching/algorithms-engineering-2017/raw/gh-pages/codice/tut_20171023.zip
+[5]:https://github.com/utv-teaching/algorithms-engineering-2017/raw/gh-pages/slide/esercizio_ordinamento.pdf
+[6]:https://github.com/utv-teaching/algorithms-engineering-2017/raw/gh-pages/codice/sorting.zip
+[7]:https://github.com/utv-teaching/algorithms-engineering-2017/raw/gh-pages/slide/tut_20171110.pdf
+[8]:https://github.com/utv-teaching/algorithms-engineering-2017/raw/gh-pages/codice/tut_20171110.zip
+[9]: https://github.com/utv-teaching/algorithms-engineering-2017/raw/gh-pages/slide/tree-slides.pdf
+[10]:https://github.com/utv-teaching/algorithms-engineering-2017/raw/gh-pages/codice/dictionary_tree.zip
+[11]:https://github.com/utv-teaching/algorithms-engineering-2017/raw/gh-pages/test/prova-itinere-1.pdf
+[12]:https://github.com/utv-teaching/algorithms-engineering-2017/raw/gh-pages/codice/tabellehash.zip
+[13]:https://github.com/utv-teaching/algorithms-engineering-2017/raw/gh-pages/slide/tabelle_hash.pdf
+[14]:https://github.com/utv-teaching/algorithms-engineering-2017/raw/gh-pages/codice/priorityQueue.zip
+[15]:https://github.com/utv-teaching/algorithms-engineering-2017/raw/gh-pages/slide/union_find.pdf
+[16]:https://github.com/utv-teaching/algorithms-engineering-2017/raw/gh-pages/codice/unionFind.zip
+[17]:https://github.com/utv-teaching/algorithms-engineering-2017/raw/gh-pages/slide/graph.pdf
+[18]:https://github.com/utv-teaching/algorithms-engineering-2017/raw/gh-pages/codice/graph.zip
+[19]:https://github.com/utv-teaching/algorithms-engineering-2017/raw/gh-pages/slide/graph-mst.pdf
+[20]:https://github.com/utv-teaching/algorithms-engineering-2017/raw/gh-pages/codice/graph-mst.zip
+[21]:https://github.com/utv-teaching/algorithms-engineering-2017/raw/gh-pages/test/prova-itinere-2.pdf
 
 ## Risorse
 **Python** -- [download](https://www.python.org/)
