@@ -1,6 +1,6 @@
-﻿  > **Avviso** Sono disponibili le tracce aggiornate della [seconda prova pratica in itinere][21]  
+﻿  > **Avviso** Sono disponibili le tracce aggiornate della [seconda prova pratica in itinere][23]  
 
-  > **Avviso** Sono disponibili le tracce della [seconda prova pratica in itinere][21]  
+  > **Avviso** Sono disponibili le tracce della [seconda prova pratica in itinere][23]  
 
   > **Avviso** Vi ricordiamo che la completezza della relazione (decrizione dell'algoritmo e analisi dei tempi) e la qualità del codice (modularità e commenti) sono necessari ai fini di una giusta valutazione del progetto.
 
@@ -48,23 +48,23 @@ Potrete decidere di svolgere la prova pratica in *due modalità, mutuamente eslc
 
 ## Progetti
 * [Prova pratica in itinere 1][11]
-* [Prova pratica in itinere 2][21]
+* [Prova pratica in itinere 2][23]
 
 ## Lezioni
 
-| Giorno     | Argomento                            | Docente    | Materiale            |
-|------------|--------------------------------------|------------|----------------------|
-| 16/10/2017 | Python                               | Vannacci   | [slide][1] [codice][2] |
-| 23/10/2017 | Liste, Pile, Code                    | Trivelloni | [slide][3] [codice][4] |
-| 30/10/2017 | Algoritmi di ordinamento             | Vannacci   | [slide][5] [codice][6] |
-| 10/11/2017 | Algoritmi di selezione               | Trivelloni | [slide][7] [codice][8] |
-| 13/11/2017 | Alberi, Prova 1                      | Vannacci   | [slide][9] [codice][10] |
+| Giorno     | Argomento                            | Docente    | Materiale                |
+|------------|--------------------------------------|------------|--------------------------|
+| 16/10/2017 | Python                               | Vannacci   | [slide][1] [codice][2]   |
+| 23/10/2017 | Liste, Pile, Code                    | Trivelloni | [slide][3] [codice][4]   |
+| 30/10/2017 | Algoritmi di ordinamento             | Vannacci   | [slide][5] [codice][6]   |
+| 10/11/2017 | Algoritmi di selezione               | Trivelloni | [slide][7] [codice][8]   |
+| 13/11/2017 | Alberi, Prova 1                      | Vannacci   | [slide][9] [codice][10]  |
 | 29/11/2017 | Tabelle Hash                         | Trivelloni | [slide][13] [codice][12] |
-| 01/12/2017 | Code con priorità                    | Vannacci   | [codice][14] |
+| 01/12/2017 | Code con priorità                    | Vannacci   | [codice][14]             |
 | 04/12/2017 | Union-Find                           | Trivelloni | [slide][15] [codice][16] |
 | 18/12/2017 | Grafi, Visite su grafi               | Marciani   | [slide][17] [codice][18] |
 | 22/12/2017 | MST, Prova 2                         | Marciani   | [slide][19] [codice][20] |
-| 10/01/2018 | Cammini minimi                       | Marciani   | -          |
+| 10/01/2018 | Cammini minimi                       | Marciani   | [slide][21] [codice][22] |
 | 12/01/2018 | Q&A, Progetto                        | *          | -          |
 
 (\*) tutti i tutor saranno presenti.
@@ -89,7 +89,9 @@ Potrete decidere di svolgere la prova pratica in *due modalità, mutuamente eslc
 [18]:https://github.com/utv-teaching/algorithms-engineering-2017/raw/gh-pages/codice/graph.zip
 [19]:https://github.com/utv-teaching/algorithms-engineering-2017/raw/gh-pages/slide/graph-mst.pdf
 [20]:https://github.com/utv-teaching/algorithms-engineering-2017/raw/gh-pages/codice/graph-mst.zip
-[21]:https://github.com/utv-teaching/algorithms-engineering-2017/raw/gh-pages/test/prova-itinere-2.pdf
+[21]:https://github.com/utv-teaching/algorithms-engineering-2017/raw/gh-pages/slide/graph-sp.pdf
+[22]:https://github.com/utv-teaching/algorithms-engineering-2017/raw/gh-pages/codice/graph-sp.zip
+[23]:https://github.com/utv-teaching/algorithms-engineering-2017/raw/gh-pages/test/prova-itinere-2.pdf
 
 ## Risorse
 **Python** -- [download](https://www.python.org/)
