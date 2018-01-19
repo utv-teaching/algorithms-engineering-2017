@@ -65,7 +65,7 @@ Potrete decidere di svolgere la prova pratica in *due modalità, mutuamente eslc
 | 18/12/2017 | Grafi, Visite su grafi               | Marciani   | [slide][17] [codice][18] |
 | 22/12/2017 | MST, Prova 2                         | Marciani   | [slide][19] [codice][20] |
 | 10/01/2018 | Cammini minimi                       | Marciani   | -          |
-| 12/01/2018 | Q&A, Progetto                        | *          | -          |
+| 12/01/2018 | Q&A, Progetto                        | Marciani   | -          |
 
 (\*) tutti i tutor saranno presenti.
 
