@@ -1,4 +1,6 @@
-﻿  > **Avviso** Sono disponibili le tracce aggiornate della [seconda prova pratica in itinere][23]  
+﻿  > **Avviso** E' disponibile la traccia della [prova pratica finale][24]  
+
+  > **Avviso** Sono disponibili le tracce aggiornate della [seconda prova pratica in itinere][23]  
 
   > **Avviso** Sono disponibili le tracce della [seconda prova pratica in itinere][23]  
 
@@ -49,6 +51,7 @@ Potrete decidere di svolgere la prova pratica in *due modalità, mutuamente eslc
 ## Progetti
 * [Prova pratica in itinere 1][11]
 * [Prova pratica in itinere 2][23]
+* [Prova pratica finale][24]
 
 ## Lezioni
 
@@ -79,7 +82,7 @@ Potrete decidere di svolgere la prova pratica in *due modalità, mutuamente eslc
 [8]:https://github.com/utv-teaching/algorithms-engineering-2017/raw/gh-pages/codice/tut_20171110.zip
 [9]: https://github.com/utv-teaching/algorithms-engineering-2017/raw/gh-pages/slide/tree-slides.pdf
 [10]:https://github.com/utv-teaching/algorithms-engineering-2017/raw/gh-pages/codice/dictionary_tree.zip
-[11]:https://github.com/utv-teaching/algorithms-engineering-2017/raw/gh-pages/test/prova-itinere-1.pdf
+[11]:https://github.com/utv-teaching/algorithms-engineering-2017/raw/gh-pages/test/prova-itinere-1-2017.pdf
 [12]:https://github.com/utv-teaching/algorithms-engineering-2017/raw/gh-pages/codice/tabellehash.zip
 [13]:https://github.com/utv-teaching/algorithms-engineering-2017/raw/gh-pages/slide/tabelle_hash.pdf
 [14]:https://github.com/utv-teaching/algorithms-engineering-2017/raw/gh-pages/codice/priorityQueue.zip
@@ -91,7 +94,8 @@ Potrete decidere di svolgere la prova pratica in *due modalità, mutuamente eslc
 [20]:https://github.com/utv-teaching/algorithms-engineering-2017/raw/gh-pages/codice/graph-mst.zip
 [21]:https://github.com/utv-teaching/algorithms-engineering-2017/raw/gh-pages/slide/graph-sp.pdf
 [22]:https://github.com/utv-teaching/algorithms-engineering-2017/raw/gh-pages/codice/graph-sp.zip
-[23]:https://github.com/utv-teaching/algorithms-engineering-2017/raw/gh-pages/test/prova-itinere-2.pdf
+[23]:https://github.com/utv-teaching/algorithms-engineering-2017/raw/gh-pages/test/prova-itinere-2-2017.pdf
+[11]:https://github.com/utv-teaching/algorithms-engineering-2017/raw/gh-pages/test/prova-finale-2017.pdf
 
 ## Risorse
 **Python** -- [download](https://www.python.org/)
