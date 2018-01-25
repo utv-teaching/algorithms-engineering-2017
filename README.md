@@ -95,7 +95,7 @@ Potrete decidere di svolgere la prova pratica in *due modalità, mutuamente eslc
 [21]:https://github.com/utv-teaching/algorithms-engineering-2017/raw/gh-pages/slide/graph-sp.pdf
 [22]:https://github.com/utv-teaching/algorithms-engineering-2017/raw/gh-pages/codice/graph-sp.zip
 [23]:https://github.com/utv-teaching/algorithms-engineering-2017/raw/gh-pages/test/prova-itinere-2-2017.pdf
-[11]:https://github.com/utv-teaching/algorithms-engineering-2017/raw/gh-pages/test/prova-finale-2017.pdf
+[24]:https://github.com/utv-teaching/algorithms-engineering-2017/raw/gh-pages/test/prova-finale-2017.pdf
 
 ## Risorse
 **Python** -- [download](https://www.python.org/)
